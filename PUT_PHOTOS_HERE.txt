@@ -1,0 +1,2 @@
+Put up to 6 photos here and name them photo1.jpg through photo6.jpg.
+Then refresh index.html in your browser.
